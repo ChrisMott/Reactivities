@@ -1,4 +1,4 @@
-import { StrictIconGroupProps } from "semantic-ui-react";
+
 
 export interface IActivity{
     id: string;
